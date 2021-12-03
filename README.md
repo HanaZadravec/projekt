@@ -18,7 +18,7 @@ Kupnjom proizvoda potrebno je unijeti sve potrebne podatke i proizvod Vam stiže
 
 Javni prototip(figma)-https://www.figma.com/proto/whBqffRxkVeVGNTFqtrEPA/Lupin?page-id=0%3A1&node-id=112%3A5772&viewport=241%2C48%2C0.03&scaling=min-zoom&starting-point-node-id=112%3A5772
 
-Hana Zadravec - napravit će dio za buyera, video koji predstavlja aplikaciju
+Hana Zadravec - napravit će dio za buyera, video koji predstavlja aplikaciju </br>
 Matija Kelemić - napravit će dio za sellera i administratora
 
 Dokumentaciju ćemo napraviti zajedno te također ako jedan od nas zapne zajedno ćemo probati riješiti problem
