@@ -1,4 +1,4 @@
-# lupin
+# pr
 
 ## Project setup
 ```
